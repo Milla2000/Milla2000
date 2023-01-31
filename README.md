@@ -13,7 +13,7 @@
   <br/>
  <td>
 <tr><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Milla2000&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/></tr>
-<tr><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=collins1968&layout=compact&langs_count=7&theme=github_dark"/></tr>
+<tr><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Milla2000&layout=compact&langs_count=7&theme=github_dark"/></tr>
  <tr><img src="https://github-readme-streak-stats.herokuapp.com/?user=Milla2000&show_icons=true&locale=en&layout=compact&theme=tokyonight"/></tr>
 <td>
 <br/>
