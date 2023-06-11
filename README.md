@@ -19,4 +19,4 @@
 <br/>
 <a href="https://www.linkedin.com/in/miller-jesso-54a72121a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-00008b?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-<!-- ![Snake animation](https://github.com/collins1968/collins1968/blob/output/github-contribution-grid-snake.svg)                                     -->
+<!-- ![Snake animation](https://github.com/Milla2000/Milla2000/blob/output/github-contribution-grid-snake.svg)                                     -->
