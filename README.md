@@ -17,6 +17,6 @@
  <tr><img src="https://github-readme-streak-stats.herokuapp.com/?user=Milla2000&show_icons=true&locale=en&layout=compact&theme=tokyonight"/></tr>
 <td>
 <br/>
-<a href="https://www.linkedin.com/in/miller-jesso-54a72121a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-00008b?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/miller-jesso/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-00008b?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 <!-- ![Snake animation](https://github.com/Milla2000/Milla2000/blob/output/github-contribution-grid-snake.svg)                                     -->
