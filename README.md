@@ -5,8 +5,8 @@
 <div align="center">
 <h2> About </h2>
   <p align="start">
-  Full-stack software engineer | Software Developer Student. </br>
-  Seasoned forward looking Software Engineer in developing and executing innovative software solutions to enhance business productivity. 
+  DevOps & QA Engineer. </br>
+  Developing and executing innovative software solutions to enhance business productivity. 
   </p>
  
    <br />
